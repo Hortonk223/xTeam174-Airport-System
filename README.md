@@ -6,8 +6,11 @@ This program is aimed to help establish a database to collect all related data a
 Also airport managers are permitted to revise the data(add/remove/…).
 
 Khalil Horton - krhorton@wisc.edu
+
 Willie Klein - wdklein@wisc.edu
+
 Lorraine Chen - xchen793@wisc.edu
+
 Ziyuan Zhang - zzhang949@wisc.edu
 
 
